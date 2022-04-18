@@ -12,3 +12,13 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+
+*.key
+*.pem
+database.sqlite
+*.sqlite
+
+/public/**/app.css
+/public/**/app.js
+mix-manifest.json
+_ide_helper.php
